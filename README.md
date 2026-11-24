@@ -28,7 +28,19 @@ For example:
 
 Make sure your repository is created under the course Organization, not your personal GitHub account.
 
-## 3. Select Your Scenario
+## 3. Register Your Team
+
+After creating your repository, **both team members must register their team information** in the following Google Sheet:
+
+[Team Registration – Phase 1](https://docs.google.com/spreadsheets/d/1BR6PHarQe41FsCk1m2mn_YFCBVkiEHBNBvVzqo1iiOY/edit?gid=0#gid=0)
+
+Leave a comment on the spreadsheet containing:
+- Both students' student IDs
+- Your team's GitHub repository link
+
+Make sure the information is accurate and the repository is accessible to the course staff.
+
+## 4. Select Your Scenario
 
 Each team is assigned a scenario card corresponding to its team number.
 
@@ -36,7 +48,7 @@ Find your team's scenario card in the `scenarios/` directory.
 
 All assignment activities must be based on your assigned scenario.
 
-## 4. Working on Your Repository
+## 5. Working on Your Repository
 
 Your team's repository is the workspace for all project activities and deliverables.
 
@@ -47,7 +59,7 @@ Your team's repository is the workspace for all project activities and deliverab
 - Preserve your commit history as evidence of your work process.
 - Do not rewrite or delete commit history.
 
-## 5. Peer Review
+## 6. Peer Review
 
 Each team will be paired with another team for peer review.
 
@@ -55,7 +67,7 @@ The assigned pairings will be announced separately.
 
 You are expected to review your paired team's work according to the assignment instructions and provide constructive, evidence-based feedback.
 
-## 6. Submission
+## 7. Submission
 
 Your team's GitHub repository is the primary record of your work.
 
@@ -65,10 +77,11 @@ Before the deadline, make sure that:
 - All files follow the paths and naming conventions specified in the assignment.
 - Both team members have contributed to the work.
 - The repository is accessible to the course staff.
+- Your team information has been registered in the Google Sheet.
 
-**Deadline:** To be announced.
+**Deadline: End of day, 1405/09/11**
 
-## 7. Important Notes
+## 8. Important Notes
 
 - Do not modify the original course repository.
 - Do not create a new repository from scratch; use the Fork workflow.
